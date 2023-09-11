@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "How to Train Your Dragon",
+      "cover_image": "https://media.istockphoto.com/id/1481181755/photo/african-american-man-writing-lines-of-code-on-desktop-computer-with-multiple-monitors-and.jpg?s=1024x1024&w=is&k=20&c=Ms7O8wxWo9YZBHF-Pijb-T4towMtrAM3QXy7bSD-ESk=",
+      "author": "Hiccup Horrendous Haddock III",
+      "author_img": "https://celebritypictures.org/thumbs/1196419/1196419_7.jpeg",
+      "posted_date": "2023-09-11",
+      "reading_time": 10,
+      "hashtags": "#fantasy #adventure #humor"
+    },
+    {
+      "id": 2,
+      "title": "The Hitchhiker's Guide to the Galaxy",
+      "cover_image": "https://media.istockphoto.com/id/1455300089/photo/data-science-specialists-working-at-office-together.jpg?s=1024x1024&w=is&k=20&c=d8cFPZX13mFRxQHyLCg6x-WriK2NY8QoJoVGqncqkjI=",
+      "author": "Douglas Adams",
+      "author_img": "https://marketcrest.com/wp-content/uploads/2015/11/brandon.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 15,
+      "hashtags": "#sciencefiction #comedy #satire"
+    },
+    {
+      "id": 3,
+      "title": "Pride and Prejudice",
+      "cover_image": "https://th.bing.com/th/id/R.4686cf0892961ed6ea739be7f4e8c1d7?rik=Y2FFmewVoXTnKw&pid=ImgRaw&r=0",
+      "author": "Jane Austen",
+      "author_img": "https://thefocusgroup.com/wp-content/uploads/2017/11/team_0005_Layer-8-1024x1024.png",
+      "posted_date": "2023-09-09",
+      "reading_time": 20,
+      "hashtags": "#romance #classics #literature"
+    },
+    {
+      "id": 4,
+      "title": "The Hunger Games",
+      "cover_image": "https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg",
+      "author": "Suzanne Collins",
+      "author_img": "https://wemedia.com/wp-content/uploads/2010/02/renzi_headshot.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 25,
+      "hashtags": "#dystopia #action #thriller"
+    },
+    {
+      "id": 5,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "cover_image": "https://images.pexels.com/photos/261579/pexels-photo-261579.jpeg",
+      "author": "J.K. Rowling",
+      "author_img": "https://selfpublishingadvice.org/wp-content/uploads/2014/06/24399167_l.jpg",
+      "posted_date": "2023-09-07",
+      "reading_time": 30,
+      "hashtags": "#magic #adventure #comingofage"
+    }
+  ]
+  
